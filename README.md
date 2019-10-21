@@ -5,12 +5,7 @@ Return a list of todos
 Create new todos
 Mark off todos as they are completed
 ```
-
-1.Clone repo.
-
-2.```go build```
-
-3.To Run the Server:
+To Run the Server:
 
 ```
 go run server/server.go
